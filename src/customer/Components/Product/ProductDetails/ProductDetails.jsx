@@ -13,12 +13,12 @@ import { lengha_page1 } from "../../../../Data/Women/LenghaCholi";
 import { gounsPage1 } from "../../../../Data/Gouns/gouns";
 
 const product = {
-  name: "Basic Tee 6-Pack",
+  name: "Heaven Garden",
   price: "₹996",
   href: "#",
   breadcrumbs: [
-    { id: 1, name: "Men", href: "#" },
-    { id: 2, name: "Clothing", href: "#" },
+    { id: 1, name: "Fresh", href: "#" },
+    { id: 2, name: "Harvest", href: "#" },
   ],
   images: [
     {
